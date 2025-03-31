@@ -1,0 +1,79 @@
+/* @font-face {
+	font-family:"Minion Pro";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../../font/MinionPro-Regular.otf");
+} */
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote, figure {
+	margin:0;
+	padding:0;
+	border-width:0;
+	text-rendering:optimizeSpeed;
+}
+div > svg {
+	position:absolute;
+}
+div.Basic-Graphics-Frame {
+	border-color:#000000;
+	border-width:1px;
+	border-style:solid;
+}
+#_idContainer000 {
+	-ms-transform:translate(-26.363px,30.944px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(-26.363px,30.944px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:855.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(-26.363px,30.944px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(-26.363px,30.944px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:648.00px;
+}
+#_idContainer001 {
+	-ms-transform:translate(446.975px,447.944px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(446.975px,447.944px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:33.82px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(446.975px,447.944px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(446.975px,447.944px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:105.02px;
+}
+#_idContainer002 {
+	-ms-transform:translate(45.000px,470.444px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(45.000px,470.444px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:24.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(45.000px,470.444px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(45.000px,470.444px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:60.00px;
+}
+img._idGenObjectAttribute-1 {
+	height:100.00%;
+	min-width:100%;
+	width:100.00%;
+}
+img._idGenObjectAttribute-2 {
+	left:0px;
+	position:absolute;
+	top:0px;
+}
+div._idGenObjectStyle-Disabled {
+	background-color:transparent;
+	border-width:0px;
+}
