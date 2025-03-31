@@ -111,7 +111,7 @@ const ClickableImage = () => {
       <div className="w-full px-4 sm:px-6 md:px-8">
         <div className="relative w-full max-w-4xl mx-auto">
           <img
-            src="https://ewcbje9d7p.ufs.sh/f/ijNs5VSrK0ReD6gmVyimRarG5XP8UE2OZBseHyzuwd7JIYAi"
+            src="/images/splash.png"
             alt="Interactive Image"
             className="w-full h-auto"
           />
