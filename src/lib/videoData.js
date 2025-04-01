@@ -5,315 +5,315 @@ export const skinsByTab = {
       preview: "/images/OG/OG00.png",
       video: "/videos/other/OG00.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG01",
       preview: "/images/OG/OG01.png",
       video: "/videos/other/OG01.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG02",
       preview: "/images/OG/OG02.png",
       video: "/videos/other/OG02.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG03",
       preview: "/images/OG/OG03.png",
       video: "/videos/other/OG03.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG04",
       preview: "/images/OG/OG04.png",
       video: "/videos/other/OG04.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG05",
       preview: "/images/OG/OG05.png",
       video: "/videos/other/OG05.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG06",
       preview: "/images/OG/OG06.png",
       video: "/videos/other/OG06.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG07",
       preview: "/images/OG/OG07.png",
       video: "/videos/other/OG07.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG08",
       preview: "/images/OG/OG08.png",
       video: "/videos/other/OG08.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG09",
       preview: "/images/OG/OG09.png",
       video: "/videos/other/OG09.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG10",
       preview: "/images/OG/OG10.png",
       video: "/videos/other/OG10.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG11",
       preview: "/images/OG/OG11.png",
       video: "/videos/other/OG11.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG12",
       preview: "/images/OG/OG12.png",
       video: "/videos/other/OG12.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG13",
       preview: "/images/OG/OG13.png",
       video: "/videos/other/OG13.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG14",
       preview: "/images/OG/OG14.png",
       video: "/videos/other/OG14.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG15",
       preview: "/images/OG/OG15.png",
       video: "/videos/other/OG15.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG16",
       preview: "/images/OG/OG16.png",
       video: "/videos/other/OG16.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG17",
       preview: "/images/OG/OG17.png",
       video: "/videos/other/OG17.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG18",
       preview: "/images/OG/OG18.png",
       video: "/videos/other/OG18.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG19",
       preview: "/images/OG/OG19.png",
       video: "/videos/other/OG19.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG20",
       preview: "/images/OG/OG20.png",
       video: "/videos/other/OG20.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG21",
       preview: "/images/OG/OG21.png",
       video: "/videos/other/OG21.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG22",
       preview: "/images/OG/OG22png",
       video: "/videos/other/OG22.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG23",
       preview: "/images/OG/OG23.png",
       video: "/videos/other/OG23.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG24",
       preview: "/images/OG/OG24.png",
       video: "/videos/other/OG24.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG25",
       preview: "/images/OG/OG25.png",
       video: "/videos/other/OG25.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG26",
       preview: "/images/OG/OG26.png",
       video: "/videos/other/OG26.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG27",
       preview: "/images/OG/OG27.png",
       video: "/videos/other/OG27.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG28",
       preview: "/images/OG/OG28.png",
       video: "/videos/other/OG28.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG29",
       preview: "/images/OG/OG29.png",
       video: "/videos/other/OG29.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG30",
       preview: "/images/OG/OG30.png",
       video: "/videos/other/OG30.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG31",
       preview: "/images/OG/OG31.png",
       video: "/videos/other/OG31.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG32",
       preview: "/images/OG/OG32.png",
       video: "/videos/other/OG32.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG33",
       preview: "/images/OG/OG33.png",
       video: "/videos/other/OG33.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG34",
       preview: "/images/OG/OG34.png",
       video: "/videos/other/OG34.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG35",
       preview: "/images/OG/OG35.png",
       video: "/videos/other/OG35.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG36",
       preview: "/images/OG/OG36.png",
       video: "/videos/other/OG36.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG37",
       preview: "/images/OG/OG37.png",
       video: "/videos/other/OG37.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG38",
       preview: "/images/OG/OG38.png",
       video: "/videos/other/OG38.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG39",
       preview: "/images/OG/OG39.png",
       video: "/videos/other/OG39.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG40",
       preview: "/images/OG/OG40.png",
       video: "/videos/other/OG40.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG41",
       preview: "/images/OG/OG41.png",
       video: "/videos/other/OG41.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG42",
       preview: "/images/OG/OG42.png",
       video: "/videos/other/OG42.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG43",
       preview: "/images/OG/OG43.png",
       video: "/videos/other/OG43.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG44",
       preview: "/images/OG/OG44.png",
       video: "/videos/other/OG44.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
 
     {
@@ -321,455 +321,455 @@ export const skinsByTab = {
       preview: "/images/OG/OG45.png",
       video: "/videos/other/OG45.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG46",
       preview: "/images/OG/OG46.png",
       video: "/videos/other/OG46.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG47",
       preview: "/images/OG/OG47.png",
       video: "/videos/other/OG47.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG048",
       preview: "/images/OG/OG48.png",
       video: "/videos/other/OG48.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG49",
       preview: "/images/OG/OG49.png",
       video: "/videos/other/OG49.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG50",
       preview: "/images/OG/OG50.png",
       video: "/videos/other/OG50.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG51",
       preview: "/images/OG/OG51.png",
       video: "/videos/other/OG51.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG52",
       preview: "/images/OG/OG52.png",
       video: "/videos/other/OG52.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG53",
       preview: "/images/OG/OG53.png",
       video: "/videos/other/OG53.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG054",
       preview: "/images/OG/OG54.png",
       video: "/videos/other/OG54.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG55",
       preview: "/images/OG/OG55.png",
       video: "/videos/other/OG55.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG56",
       preview: "/images/OG/OG56.png",
       video: "/videos/other/OG56.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG57",
       preview: "/images/OG/OG57.png",
       video: "/videos/other/OG57.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG58",
       preview: "/images/OG/OG58.png",
       video: "/videos/other/OG58.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG59",
       preview: "/images/OG/OG59.png",
       video: "/videos/other/OG59.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG60",
       preview: "/images/OG/OG60.png",
       video: "/videos/other/OG60.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG61",
       preview: "/images/OG/OG61.png",
       video: "/videos/other/OG61.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG62",
       preview: "/images/OG/OG62.png",
       video: "/videos/other/OG62.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG63",
       preview: "/images/OG/OG63.png",
       video: "/videos/other/OG63.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG64",
       preview: "/images/OG/OG64.png",
       video: "/videos/other/OG64.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG65",
       preview: "/images/OG/OG65.png",
       video: "/videos/other/OG65.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG66",
       preview: "/images/OG/OG66.png",
       video: "/videos/other/OG66.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG67",
       preview: "/images/OG/OG67.png",
       video: "/videos/other/OG67.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG68",
       preview: "/images/OG/OG68.png",
       video: "/videos/other/OG68.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG69",
       preview: "/images/OG/OG69.png",
       video: "/videos/other/OG69.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG70",
       preview: "/images/OG/OG70.png",
       video: "/videos/other/OG70.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG71",
       preview: "/images/OG/OG71.png",
       video: "/videos/other/OG71.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG72",
       preview: "/images/OG/OG72.png",
       video: "/videos/other/OG72.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG73",
       preview: "/images/OG/OG73.png",
       video: "/videos/other/OG73.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG74",
       preview: "/images/OG/OG74.png",
       video: "/videos/other/OG74.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG075",
       preview: "/images/OG/OG75.png",
       video: "/videos/other/OG75.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG76",
       preview: "/images/OG/OG76.png",
       video: "/videos/other/OG76.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG77",
       preview: "/images/OG/OG77.png",
       video: "/videos/other/OG77.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG78",
       preview: "/images/OG/OG78.png",
       video: "/videos/other/OG78.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG79",
       preview: "/images/OG/OG79.png",
       video: "/videos/other/OG79.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG80",
       preview: "/images/OG/OG80.png",
       video: "/videos/other/OG80.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG81",
       preview: "/images/OG/OG81.png",
       video: "/videos/other/OG81.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG82",
       preview: "/images/OG/OG82.png",
       video: "/videos/other/OG82.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG83",
       preview: "/images/OG/OG83.png",
       video: "/videos/other/OG83.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG84",
       preview: "/images/OG/OG84.png",
       video: "/videos/other/OG84.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG85",
       preview: "/images/OG/OG85.png",
       video: "/videos/other/OG85.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG86",
       preview: "/images/OG/OG86.png",
       video: "/videos/other/OG86.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG87",
       preview: "/images/OG/OG87.png",
       video: "/videos/other/OG87.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG88",
       preview: "/images/OG/OG88.png",
       video: "/videos/other/OG88.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG89",
       preview: "/images/OG/OG89.png",
       video: "/videos/other/OG89.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG90",
       preview: "/images/OG/OG90.png",
       video: "/videos/other/OG90.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG91",
       preview: "/images/OG/OG91.png",
       video: "/videos/other/OG91.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG92",
       preview: "/images/OG/OG92.png",
       video: "/videos/other/OG92.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG93",
       preview: "/images/OG/OG93.png",
       video: "/videos/other/OG93.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG94",
       preview: "/images/OG/OG94.png",
       video: "/videos/other/OG94.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG95",
       preview: "/images/OG/OG95.png",
       video: "/videos/other/OG95.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG96",
       preview: "/images/OG/OG96.png",
       video: "/videos/other/OG96.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG97",
       preview: "/images/OG/OG97.png",
       video: "/videos/other/OG97.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG98",
       preview: "/images/OG/OG98.png",
       video: "/videos/other/OG98.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG99",
       preview: "/images/OG/OG99.png",
       video: "/videos/other/OG99.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG100",
       preview: "/images/OG/OG100.png",
       video: "/videos/other/OG100.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG101",
       preview: "/images/OG/OG101.png",
       video: "/videos/other/OG101.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG102",
       preview: "/images/OG/OG102.png",
       video: "/videos/other/OG102.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG103",
       preview: "/images/OG/OG103.png",
       video: "/videos/other/OG103.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG104",
       preview: "/images/OG/OG104.png",
       video: "/videos/other/OG104.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG105",
       preview: "/images/OG/OG105.png",
       video: "/videos/other/OG105.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG106",
       preview: "/images/OG/OG106.png",
       video: "/videos/other/OG106.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG107",
       preview: "/images/OG/OG107.png",
       video: "/videos/other/OG107.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG108",
       preview: "/images/OG/OG108.png",
       video: "/videos/other/OG108.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
     {
       id: "OG109",
       preview: "/images/OG/OG109.png",
       video: "/videos/other/OG109.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/i2WJe6Bas4ydAE2jdVg0"
     },
   ],
 
@@ -1107,7 +1107,7 @@ export const skinsByTab = {
       preview: "/images/OTHER/BEATERSON.png",
       video: "/videos/other/BEATERSON.mp4",
       audio: "/api/placeholder/audio",
-      link: "https://www.launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/GkwLxKg3AymufQlyetUx"
+      link: "https://launchmynft.io/collections/HpTP7Vy7TZRTp2yLqsRVsKeXihZTqDKJZzoiTpT82mqs/GkwLxKg3AymufQlyetUx"
     },
     {
       id: "BOOTLEGRAVER00",
